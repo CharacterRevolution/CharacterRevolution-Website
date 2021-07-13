@@ -9,13 +9,13 @@ date: 2021-07-13 23:17:37
 
 字魂凝创目前有以下几个自有开发团队
 
- | - 黑鱼制作组 / Blackish Production
- | - 甜雪制作组 / AmaiYuki Production
- | - 指针越界工作室 / PointerOverflow Works
+ > - 黑鱼制作组 / Blackish Production
+ > - 甜雪制作组 / AmaiYuki Production
+ > - 指针越界工作室 / PointerOverflow Works
 
 
 字魂凝创目前代理了以下几个团队的游戏
 
- |
- | 做梦，不存在的
- |
+ >
+ > 做梦，不存在的
+ >
