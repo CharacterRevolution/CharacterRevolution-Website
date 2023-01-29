@@ -126,9 +126,9 @@ footer:
         # Attribution 4.0 International:
             # icon: fab fa-creative-commons-by
             # url: 'https://creativecommons.org/licenses/by/4.0/'
-        Download on GitHub:
-            icon: fab fa-github
-            url: 'https://icp.gov.moe/?keyword=20220713'
+        # Download on GitHub:
+            # icon: fab fa-github
+            # url: 'https://icp.gov.moe/?keyword=20220713'
 # Article related configurations
 article:
     # Code highlight settings
@@ -391,8 +391,8 @@ plugins:
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
-    cdn: loli
+    cdn: unpkg
     # Name or URL template of the webfont CDN provider
-    fontcdn: loli
+    fontcdn: ustc
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: loli
