@@ -2,7 +2,7 @@
 title: 代号：蓝河
 date: 2021-07-12 18:00:00
 tags:
-cover: https://mapp.alicdn.com/1626173991514zBjVfH69rylmASc.png
+cover: https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_codelapisriver_final_cold_1080p.png
 ---
 
 本作由黑鱼制作组开发
@@ -22,13 +22,13 @@ cover: https://mapp.alicdn.com/1626173991514zBjVfH69rylmASc.png
 这是一些当时的美术素材的图片，您可以在此浏览
 
 
-![夜5-1080P](https://mapp.alicdn.com/1626175700329yBPXDe4nn4eCraZ.png)
+![夜5-1080P](https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_codelapisriver_ye_5_1080p.png)
 
 
-![成稿-Cold-1080P](https://mapp.alicdn.com/1626173991514zBjVfH69rylmASc.png)
+![成稿-Cold-1080P](https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_codelapisriver_final_cold_1080p.png)
 
 
-![2](https://mapp.alicdn.com/1626175926598c8ZAE8HMwb9dRem.jpg)
+![车站-2](https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_codelapisriver_station.jpg)
 
 
 

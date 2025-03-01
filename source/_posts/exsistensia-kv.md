@@ -2,7 +2,7 @@
 title: Exsistensia:逝夏
 date: 2021-07-13 18:45:46
 tags:
-cover: https://mapp.alicdn.com/1626182140649M3ZR514aXvZdCZB.png
+cover: https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_exsistensia-kv-KV-Bluelight-Rightbulb-1080P.png
 ---
 
 名字很奇怪？确实
@@ -19,6 +19,6 @@ cover: https://mapp.alicdn.com/1626182140649M3ZR514aXvZdCZB.png
 
 目前我们已经释放出了一张主视觉图
 
-![KV-Bluelight-Rightbulb-1080P](https://mapp.alicdn.com/1626182140649M3ZR514aXvZdCZB.png)
+![KV-Bluelight-Rightbulb-1080P](https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_exsistensia-kv-KV-Bluelight-Rightbulb-1080P.png)
 
 想要体验更多的试玩版？欢迎加入我们的体验群

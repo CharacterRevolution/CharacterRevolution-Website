@@ -2,7 +2,7 @@
 title: 代号：蜜桃
 date: 2021-07-12 18:00:00
 tags:
-cover: https://mapp.alicdn.com/1626188170669LMbiRWFhCOjhiDq.jpg
+cover: https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_codesweetpersici-conceptgroupphoto.jpg
 ---
 
 嗯，其实连代号的英文
