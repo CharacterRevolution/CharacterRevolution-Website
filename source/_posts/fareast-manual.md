@@ -1,5 +1,5 @@
 ---
-title: 远东四季故事官网对应
+title: 远东四季故事官网手册对应
 date: 2025-03-01 20:46:25
 tags:
 cover: https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_cngal2023-fareast-cover-680px.png
@@ -13,6 +13,6 @@ Steam切分支的方法为右键点击游戏，在已安装的游戏里面点击
 
 目前本网站作为前发行商虽然业已经结束合作，依然希望这一作能卖的好一些，感谢浏览本作品相关内容！  
 
-对本作存在的疑问，可以向我们发[邮件](mailto:LLSS-Helloworld@charrev.moe)**LLSS-Helloworld@charrev.moe**咨询（本邮箱专门受理本作相关业务。）
+对本作存在的疑问，可以向我们发[邮件](mailto:FFSS-Helloworld@charrev.moe) **FFSS-Helloworld@charrev.moe** 咨询（本邮箱专门受理本作相关业务。）
 
 祝您在浩如烟海的文字中发现故事中的美。

@@ -1,6 +1,6 @@
 version: 5.1.0
 variant: default
-logo: https://mapp.alicdn.com/1626189208871DQ1TndXNm17L8CA.png
+logo: https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_exsistensia-about-the-heroine-graylogo.png
 head:
     favicon: /favicon.ico
     manifest:
@@ -43,7 +43,7 @@ head:
 navbar:
     menu:
         主页: /
-        归档: /archives
+        文章: /archives
         关于: /about
     links: 
 footer:
