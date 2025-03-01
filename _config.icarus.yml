@@ -44,7 +44,6 @@ navbar:
     menu:
         主页: /
         归档: /archives
-        试玩: /try
         关于: /about
     links: 
 footer:
