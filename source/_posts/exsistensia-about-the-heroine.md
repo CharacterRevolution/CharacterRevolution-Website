@@ -2,7 +2,7 @@
 title: 关于《Exsistensia:逝夏》女主的身份的解密
 date: 2021-08-04 20:00:00
 tags:
-cover: https://mapp.alicdn.com/1626189208871DQ1TndXNm17L8CA.png
+cover: https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_exsistensia-about-the-heroine-graylogo.png
 ---
 
 这并不算是最完美的答案，依然和我们开发中的设定是有一些出入的
@@ -11,4 +11,4 @@ cover: https://mapp.alicdn.com/1626189208871DQ1TndXNm17L8CA.png
 
 <!--more-->
 
-![玩家发言](https://mapp.alicdn.com/1640875500578fmYmQ7l2GG71ugl.png)
+![玩家发言](https://character-revolution.oss-cn-beijing.aliyuncs.com/Static/post_exsistensia-about-the-heroine-screenshot.png)
